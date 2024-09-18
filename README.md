@@ -1,11 +1,14 @@
-# Project Guidelines
+# CPNT-201-ASSIGNMENT-1
 
 ## Table of Contents
 
-- [Steps to Clone a Repository](#steps-to-clone-a-repository)
-- [Steps to Create a New Branch](#steps-to-create-a-new-branch)
-- [Steps to Make Changes and Submit a Pull Request](#steps-to-make-changes-and-submit-a-pull-request)
-- [Attributions](#attributions)
+- [**Project Guidelines**](#project-guidelines)
+  1. [Steps to Clone a Repository](#steps-to-clone-a-repository)
+  2. [Steps to Create a New Branch](#steps-to-create-a-new-branch)
+  3. [Steps to Make Changes and Submit a Pull Request](#steps-to-make-changes-and-submit-a-pull-request)
+  4. [Attributions](#attributions)
+
+## Project Guidelines
 
 Cloning a repository allows you to create a local copy of a remote repository on your machine. Here’s how to do it using Git:
 

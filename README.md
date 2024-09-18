@@ -1,4 +1,11 @@
-# Project Guidelines  
+# Project Guidelines
+
+## Table of Contents
+
+- [Steps to Clone a Repository](#steps-to-clone-a-repository)
+- [Steps to Create a New Branch](#steps-to-create-a-new-branch)
+- [Steps to Make Changes and Submit a Pull Request](#steps-to-make-changes-and-submit-a-pull-request)
+- [Attributions](#attributions)
 
 Cloning a repository allows you to create a local copy of a remote repository on your machine. Here’s how to do it using Git:
 
@@ -114,7 +121,7 @@ Now you’re ready to start working on your new branch!
 
 Making changes and submitting a pull request in Git typically involves a few key steps. Here’s a concise guide:
 
-### Steps to Make Changes and Submit a Pull Request
+### Steps to Make Changes and Submit a Pull Request:
 
 1. **Clone the Repository** (if you haven't already):
    ```bash
@@ -175,3 +182,9 @@ Making changes and submitting a pull request in Git typically involves a few key
 8. Create a pull request on the hosting platform.
 
 Once the pull request is submitted, the repository maintainers will review your changes and may ask for modifications or approve and merge them. Happy coding!
+
+## Attributions
+
+- [ChatGPT - how to clone a repository](chatgpt.com)
+- [ChatGPT - how to create a new branch in git](chatgpt.com)
+- [ChatGPT - how to make changes and submit a pull request in git](chatgpt.com)

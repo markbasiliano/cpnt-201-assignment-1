@@ -2,11 +2,16 @@
 
 ## Table of Contents
 
+- [**Project Files**](/project-files/)
+   1. [About Me](/project-files/aboutme.md)
+   2. [Contact Info](/project-files/contact-info.md)
+   3. [Projects](/project-files/projects.md)
+   4. [Skills](/project-files/skills.md)
 - [**Project Guidelines**](#project-guidelines)
-  1. [Steps to Clone a Repository](#steps-to-clone-a-repository)
-  2. [Steps to Create a New Branch](#steps-to-create-a-new-branch)
-  3. [Steps to Make Changes and Submit a Pull Request](#steps-to-make-changes-and-submit-a-pull-request)
-  4. [Attributions](#attributions)
+   1. [Steps to Clone a Repository](#steps-to-clone-a-repository)
+   2. [Steps to Create a New Branch](#steps-to-create-a-new-branch)
+   3. [Steps to Make Changes and Submit a Pull Request](#steps-to-make-changes-and-submit-a-pull-request)
+- [**Attributions**](#attributions)
 
 ## Project Guidelines
 

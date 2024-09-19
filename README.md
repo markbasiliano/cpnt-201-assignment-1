@@ -12,6 +12,7 @@
    2. [Steps to Create a New Branch](#steps-to-create-a-new-branch)
    3. [Steps to Make Changes and Submit a Pull Request](#steps-to-make-changes-and-submit-a-pull-request)
 - [**Attributions**](#attributions)
+- [**License**](/LICENSE)
 
 ## Project Guidelines
 

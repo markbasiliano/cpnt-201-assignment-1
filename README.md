@@ -230,3 +230,8 @@ Once the pull request is submitted, the repository maintainers will review your 
 - [ChatGPT - how to clone a repository](chatgpt.com)
 - [ChatGPT - how to create a new branch in git](chatgpt.com)
 - [ChatGPT - how to make changes and submit a pull request in git](chatgpt.com)
+- [ChatGPT - make an about page for deadpool](chtgpt.com)
+- [ChatGPT - make a contact information page for deadpool](chtgpt.com)
+- [ChatGPT - make a skills page for deadpool](chtgpt.com)
+- [ChatGPT - make a projects page for deadpool](chtgpt.com)
+- [Google - deadpool wallpaper](google.com)

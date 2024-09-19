@@ -4,7 +4,7 @@
 
 ---
 
-### **About Deadpool**
+### About Deadpool
 
 **Welcome to the Merc with a Mouth’s Corner of the Internet!**
 
@@ -42,7 +42,10 @@ I might be a lone wolf, but I’ve got some incredible friends (and enemies) in 
 
 Ready to dive into my world? Follow me on social media, check out my comics, or just kick back and enjoy the ride. Remember, life’s too short to be serious all the time—so let’s embrace the madness together!
 
-**Stay badass,**
-Deadpool
+---
+
+**Stay Badass!**
+
+### **- Deadpool**
 
 ---

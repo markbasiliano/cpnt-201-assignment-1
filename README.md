@@ -64,7 +64,7 @@ Cloning a repository allows you to create a local copy of a remote repository on
 That's it! You now have a local copy of the repository to work with.  
 
 ---
----
+[back to top](#cpnt-201-assignment-1)
 
 Creating a new branch in Git is straightforward. Here’s how to do it:
 
@@ -125,7 +125,7 @@ Creating a new branch in Git is straightforward. Here’s how to do it:
 Now you’re ready to start working on your new branch!  
 
 ---
----
+[back to top](#cpnt-201-assignment-1)
 
 Making changes and submitting a pull request in Git typically involves a few key steps. Here’s a concise guide:
 
@@ -190,6 +190,9 @@ Making changes and submitting a pull request in Git typically involves a few key
 8. Create a pull request on the hosting platform.
 
 Once the pull request is submitted, the repository maintainers will review your changes and may ask for modifications or approve and merge them. Happy coding!
+
+---
+[back to top](#cpnt-201-assignment-1)
 
 ## Attributions
 
